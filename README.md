@@ -1,2 +1,2 @@
 # Edufold
-Univeristy Website 
+University Website 
